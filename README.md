@@ -1,2 +1,2 @@
-# summer-2016
-A website created by 15 year old me for a school assessment
+# Summer 2016 Website
+A website created by 14 year old me for a school assessment. Writen in HTML and CSS.
